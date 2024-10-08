@@ -10,3 +10,4 @@ Features
    UI:Ant-Design
    Some small weather icons : React-Icon
    Weather data:openweathermap api.
+5. The URL to the deployed application: https://we-1e7oggjrr-jiangjingyuns-projects.vercel.app/
