@@ -1,0 +1,34 @@
+.weatherInfo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.temp {
+  font-weight: bold;
+  font-size: 36px;
+}
+.info1 {
+  display: flex;
+  align-items: center;
+}
+
+.spaceB {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.info2 {
+  font-size: 12px;
+  width: 70px;
+}
+.weatherDesciption {
+  display: block;
+  margin-bottom: 50px;
+  text-align: left;
+}
+.darkMode {
+  color: white;
+}
+.whiteMode {
+  color: black;
+}
